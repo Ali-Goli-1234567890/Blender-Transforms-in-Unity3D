@@ -126,15 +126,18 @@ namespace UnityMadeAwesome.BlenderInUnity
                 }
                 if (Event.current.keyCode == Data.scaleKey)
                 {
-                    Event.current.Use();
-
-                    if (activeModal != null)
+                    if (Tools.viewTool != ViewTool.FPS) //So if we were in FPS Mode
                     {
-                        activeModal.Cancel();
-                    }
+                        Event.current.Use();
 
-                    activeModal = scaleEdit;
-                    activeModal.Start();
+                        if (activeModal != null)
+                        {
+                            activeModal.Cancel();
+                        }
+
+                        activeModal = scaleEdit;
+                        activeModal.Start();
+                    }
                 }
             }
 
