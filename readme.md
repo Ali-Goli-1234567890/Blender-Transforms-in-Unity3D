@@ -7,9 +7,9 @@ An editor script that allow the manipulation of GameObject’s position, rotatio
 <!---%=obtain%-->
 
 ###Obtain!###
-[Releases](https://github.com/cjddmut/Blender-Transforms-in-Unity3D/releases)
+[Releases](https://github.com/Ali-Goli-1234567890/Blender-Transforms-in-Unity3D/releases)
 
-If you'd like the most up to date version (which is the most cool), then pull the repo or download it [here](https://github.com/cjddmut/Blender-Transforms-in-Unity3D/archive/develop.zip) and copy the files in Assets to your project's Assets folder.
+If you'd like the most up to date version (which is the most cool), then pull the repo or download it [here](https://github.com/Ali-Goli-1234567890/Blender-Transforms-in-Unity3D/archive/develop.zip) and copy the files in Assets to your project's Assets folder.
 
 <!---%=docrest%-->
 
